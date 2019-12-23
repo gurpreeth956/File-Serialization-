@@ -4,5 +4,5 @@ This was done for an assignment for CSE320 at Stony Brook University. There is j
 
 # About
 Program that allows serialization and deserialization of files using C
-• Users can serialize files and directories into a hexadecimal formatted file
-• Users can deserialize the formatted file and recreate the original files/directories
+- Users can serialize files and directories into a hexadecimal formatted file
+- Users can deserialize the formatted file and recreate the original files/directories
